@@ -1,7 +1,4 @@
 #!/bin/bash
-
-echo "check that the job is running" > /var/log/weewx_cron.log
-
 # Define the name of the service
 service_name="weewx"
 
