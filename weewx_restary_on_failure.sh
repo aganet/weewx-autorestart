@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 echo "check that the job is running" > /var/log/weewx_cron.log
 
